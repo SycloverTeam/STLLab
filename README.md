@@ -4,7 +4,7 @@ Implement a tiny STL in C++11.
 
 ## Use
 
-An lab to implement STL.
+A lab to implement STL.
 
 It is recommended that you compare the [sigstl](http://www.rrsd.com/software_development/stl/stl/download.html) and [stlport](https://sourceforge.net/projects/stlport/files/) implementations.
 
